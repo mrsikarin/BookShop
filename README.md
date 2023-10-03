@@ -1,3 +1,3 @@
 # BookShop
 BookShop
-![ssrt](Img/Screenshot.png) 
+![ssrt](Screenshot.png) 
